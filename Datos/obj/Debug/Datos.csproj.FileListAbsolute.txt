@@ -1,0 +1,4 @@
+C:\Users\Angeleye's\source\repos\IndependenciaLogicaBD\Datos\bin\Debug\Datos.dll
+C:\Users\Angeleye's\source\repos\IndependenciaLogicaBD\Datos\bin\Debug\Datos.pdb
+C:\Users\Angeleye's\source\repos\IndependenciaLogicaBD\Datos\obj\Debug\Datos.dll
+C:\Users\Angeleye's\source\repos\IndependenciaLogicaBD\Datos\obj\Debug\Datos.pdb

@@ -1,0 +1,27 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+
+}
+    <div class="container">
+        <div class="row">
+            <h2><strong>Independencia Loogica del model conceptual </strong> <a>Roberto Aguilar</a> <br /></h2><br />
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <!-- Start form -->
+                <form>
+                    @foreach (var item in @ViewBag.JsonObject)
+                    {
+                        <div class="form-group">
+                            <label for="exampleInputEmail1">@item</label>
+                            <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder=@item>
+                        </div>
+                    }
+                </form>
+                <!-- End form -->
+            </div>
+        </div>
+    </div>
+
+<script>
+    //var tiendaCtrl = new TiendaController();
+    @*var ordenes = JSON.parse(@Html.Raw(Json.Encode(@ViewBag.JsonObject)));*@
+</script>
