@@ -6,3 +6,6 @@ en este ejemplo, al modificar el esquema de datos, "agregar o eliminar en el esq
 Se pueden ver estas modificaciones en los programas de aplicacion.
 
 Favor de correr el script.sql en sql manager para poder interactuar con el ejemplo y modificar la cadena de conexion.
+
+
+La capacidad para modificar una definición de esquema en un nivel sin que afecte auna definición de esquema en el siguiente nivel más alto se llama Independencia dedatos.
